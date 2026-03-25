@@ -1,76 +1,53 @@
 # Nathakorn (Kew)
 
 Master of Information Technology (Software Development) student at Swinburne University, Melbourne.  
-I am passionate about developing practical and user-friendly applications across mobile and web platforms, with a growing interest in full-stack development and AI integration.
+Interested in building practical, user-friendly applications across mobile and web, with a focus on full-stack development and AI.
 
 ---
 
 ## 🔧 Technical Skills
-- **Mobile Development:** Flutter (iOS & Android)
-- **Web Development:** React, HTML, CSS, JavaScript
-- **Backend & Tools:** Python (Flask/FastAPI), REST APIs, Git, GitHub
-- **Database:** SQL, MySQL, database design and integration
-- **Other:** UI/UX design (Figma), responsive design
+- **Mobile:** Flutter  
+- **Web:** React, HTML, CSS, JavaScript  
+- **Backend:** Python (Flask/FastAPI), REST APIs  
+- **Database:** SQL, MySQL  
+- **Other:** Figma, responsive design  
 
 ---
 
 ## 🚀 Projects
 
 ### 🩺 Smart Adaptive Clinical Assistant (SACA)
-A bilingual AI-powered health assistant designed to support communication in remote Indigenous communities.
-
-- Developed a system that allows users to interact using voice or text (English/Kriol)
-- Integrated Speech-to-Text (Whisper) and NLP for symptom understanding
-- Implemented a classification system to assess symptom severity (mild, moderate, severe)
-- Built full-stack integration between React frontend and Python backend (Flask/FastAPI)
-- Designed and integrated database structures for managing symptoms and system data
-- Focused on accessibility, low-bandwidth environments, and culturally appropriate design
+AI-powered bilingual health assistant for remote Indigenous communities.  
+- Voice/text interaction (English/Kriol)  
+- NLP + symptom classification (severity levels)  
+- Full-stack (React + Flask)  
+- Designed for accessibility and low-bandwidth environments  
 
 ---
 
-### 🧠 Coding Quiz Platform (Python & JavaScript)
-An interactive quiz platform designed to help beginners practice programming skills.
-
-- Developed a web-based quiz system using React (frontend) and Flask (backend)
-- Designed structured quiz datasets with multiple difficulty levels (Beginner, Medium, Hard)
-- Implemented API endpoints for handling questions, answers, and result calculation
-- Built a one-question-per-page flow with a final result summary
-- Focused on simple and user-friendly interface for learning
+### 🧠 Coding Quiz Platform
+Web-based platform for practicing Python & JavaScript.  
+- React + Flask full-stack system  
+- Multi-level quiz (Beginner–Hard)  
+- API for questions, answers, results  
+- Simple, user-friendly learning flow  
 
 ---
 
-### 🎨 Restaurant Finder App (UI/UX Design)
-A mobile application design focused on helping users find nearby restaurants in a simple and intuitive way.
-
-- Designed user interface using Figma with a clean, minimal, and friendly style
-- Created wireframes and high-fidelity prototypes
-- Focused on usability, accessibility, and clear navigation
+### 🎨 Restaurant Finder App (UI/UX)
+Mobile UI/UX design focused on usability and simplicity.  
+- Designed in Figma (wireframes + prototypes)  
+- Clean, minimal interface  
+- Features: map view, filtering, easy navigation  
 
 ---
 
 ## 💼 Experience
-- Contributed to the development of a real-world health application in collaboration with Thailand’s Department of Health  
-- Worked in a team environment across both mobile and web development  
-- Built user-focused applications with simple and intuitive design  
-
----
-
-## 🚀 Currently Working On
-- Improving full-stack development skills  
-- Exploring AI integration in applications  
-- Developing personal projects for portfolio  
-
----
-
-## 🤝 Collaboration
-I am open to collaborating on projects related to:
-- Web and mobile application development  
-- AI-driven or user-focused systems  
-- Student or beginner-friendly platforms  
+- Worked on a health application with Thailand’s Department of Health  
+- Experience in both mobile and web development  
+- Strong focus on user-friendly design  
 
 ---
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/nathakorn-wimonwatwethi-7a1797358
-
----
