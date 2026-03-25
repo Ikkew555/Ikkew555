@@ -4,5 +4,5 @@
 - 🚀 Previously worked on a health application with Thailand’s Department of Health
 - 🌱 Currently learning more about full-stack development and AI integration
 - 🤝 Open to collaboration on web, mobile, or creative tech projects
-- 📫 Reach me:|
-- LinkedIn: linkedin.com/in/nathakorn-wimonwatwethi-7a1797358
+- 📫 Reach me:
+  LinkedIn: linkedin.com/in/nathakorn-wimonwatwethi-7a1797358
